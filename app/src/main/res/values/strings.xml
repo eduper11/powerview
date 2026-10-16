@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PowerView</string>
+    <string name="field_powerview">⚡ PowerView</string>
+    <string name="field_powerview_desc">Potencia configurable con fondo por zona. Ajusta los 3 valores desde la app.</string>
+</resources>

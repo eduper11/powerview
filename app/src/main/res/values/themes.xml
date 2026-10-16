@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PowerView" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#F08C00</item>
+        <item name="colorPrimaryVariant">#C96F00</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="colorSurface">#1A1A1A</item>
+        <item name="android:windowBackground">#111111</item>
+        <item name="android:statusBarColor">#111111</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+</resources>
